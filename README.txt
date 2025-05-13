@@ -6,4 +6,4 @@ I am from China
 Be an open source enthusiast and contributor
 Love FOSS
 Follow my Telegram channel
-https:t.meOLDCAT_DAILY
+https://t.me/OLDCAT_DAILY
