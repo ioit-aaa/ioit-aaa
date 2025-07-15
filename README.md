@@ -4,7 +4,7 @@
 
 ## 个人介绍
 
-- :man_artist: 或许是个 UI designer
+- :art: 或许是个 UI designer
 
 ### 开发设备
 
