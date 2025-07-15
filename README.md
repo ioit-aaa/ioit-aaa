@@ -24,4 +24,4 @@
 ![github](https://img.shields.io/badge/github-%232E3440?style=for-the-badge&logo=github&logoColor=%237590AD)
 ![Telegram](https://img.shields.io/badge/Telegram-%232E3440?style=for-the-badge&logo=Telegram&logoColor=%237590AD)
 ![Python](https://img.shields.io/badge/Python-%232E3440?style=for-the-badge&logo=Python&logoColor=%237590AD)
-![adblockplus](https://img.shields.io/badge/adblockplus-%232E3440?style=for-the-badge&logo=adblockplus&logoColor=%237590AD)
+![Adblock Plus](https://img.shields.io/badge/adblock&nbsp;plus-%232E3440?style=for-the-badge&logo=adblockplus&logoColor=%237590AD)
