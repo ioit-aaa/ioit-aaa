@@ -5,6 +5,11 @@
 ## 个人介绍
 
 - :art: 或许是个 UI designer
+- :male_sign: 我是男孩子
+- :scorpius: 我是天蝎座
+- :cn: 我是中国人
+- :dependabot: 我使用 dependabot 来轻松的管理项目依赖版本
+- :trollface: 我喜欢玩抽象，因为他真的很有趣，不是吗？
 
 ### 开发设备
 
