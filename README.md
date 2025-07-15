@@ -21,3 +21,4 @@
 
 ![zsh](https://img.shields.io/badge/zsh-%232E3440?style=for-the-badge&logo=zsh&logoColor=%237590AD)
 ![git](https://img.shields.io/badge/git-%232E3440?style=for-the-badge&logo=git&logoColor=%237590AD)
+![github](https://img.shields.io/badge/github-%232E3440?style=for-the-badge&logo=github&logoColor=%237590AD)
