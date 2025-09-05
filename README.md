@@ -13,3 +13,7 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+
+### Technology stack
+
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
