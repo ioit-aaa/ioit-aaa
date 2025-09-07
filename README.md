@@ -1,9 +1,9 @@
 ### Donate
-- ETH
-   ```
-   0xE635c71068b754d64f3cA94B280633F63770CFB6
-   ```
 
+   - usdt-TRC20
+   ```
+   TPrRBtLnG82q5hDMkxnfYfDN3EZhi1NdKM
+   ```
 
 :wave: 你好！我是战神小猫
 
