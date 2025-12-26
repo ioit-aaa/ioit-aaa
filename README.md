@@ -4,26 +4,6 @@
    ```
    TPrRBtLnG82q5hDMkxnfYfDN3EZhi1NdKM
    ```
-
-:wave: 你好！我是战神小猫
-
-### 统计数据
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
-
-![战神小猫's GitHub stats](https://github-readme-stats.vercel.app/api?username=ioit-aaa&show_icons=true&theme=nord&locale=cn&hide_title=true&hide=prs&include_all_commits=true&count_private=true)
-![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=ioit-aaa&layout=compact&theme=nord&locale=cn&hide=html,css,tex)
-
 ### Technology stack
 
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge)
